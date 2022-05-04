@@ -1,4 +1,4 @@
-,temperature_index,time_index,stoichiometry_index,yield
-14,130,0.2,0.6,<Enter Response>
-5,120,0.3,0.6,<Enter Response>
-11,120,0.5,0.6,<Enter Response>
+,temperature_index,time_index,stoichiometry_index,response
+127049,139,30,48,3.02
+1154,148,22,38,0.49
+127017,142,29,45,0.84
